@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .menu-card {
+    @apply flex flex-col justify-center items-center bg-white h-2/4 font-mono px-8 py-20;
+} */
+
+.menu-content {
+    @apply flex flex-col justify-center items-center;
+}
